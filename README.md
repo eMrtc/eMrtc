@@ -33,5 +33,5 @@ Plataforma fintech acadêmica voltada para atletas, com funcionalidades de contr
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/enzo-covre/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-covre/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enzocovre@hotmail.com)

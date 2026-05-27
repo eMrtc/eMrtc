@@ -1,4 +1,4 @@
-# Olá, sou o Enzo Martini
+# Sou o Enzo Martini
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP e **Administração** na UNINOVE. Estou construindo minha trajetória no desenvolvimento de software com foco em criar soluções que unam tecnologia e visão de negócio.
 
